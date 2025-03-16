@@ -1,0 +1,166 @@
+body{
+  background-image: url(background.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  
+  
+
+}
+.navbar{
+  background-image: url(transparentbg.png);
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  height: 60px;
+  z-index: 999;
+}
+
+li a{
+  display: inline-flex;
+
+}
+
+.pagini{
+  color: white;
+  text-decoration: none;
+}
+
+.insta-icon{
+  width: 40px;
+  height: 40px;
+}
+
+.tiktok-icon{
+  width: 30px;
+  height: 30px;
+  translate: 0% -20%;
+  margin-left: 30px;
+  
+
+}
+
+.socials{
+  translate: 310% 1600%;
+  width: 200px;
+  padding-bottom: 100px;
+
+}
+
+.tiktok-icon:hover{
+  transform: scale(1.2);
+  transition: 0.3s;
+
+
+}
+
+.insta-icon:hover{
+  transform: scale(1.2);
+  transition: 0.3s;
+
+
+
+}
+
+.titlu{
+  width: 200px;
+  font-family: 'Zen Dots';
+  color: white;
+  translate: 300% -130%;
+}
+
+.titlu1{
+  margin: 0;
+}
+
+.pagini{
+  font-family: 'Zen Dots';
+
+
+
+}
+
+.pagini:hover{
+  transform: scale(1.2);
+  color: grey;
+  transition: 0.3s;
+}
+
+
+
+li {
+  display: inline-flex;
+  
+ 
+
+
+}
+
+.pages {
+  width: 500px;
+  translate: 174% -357%;
+  
+ 
+
+
+}
+
+li a{
+  padding-left: 28px;
+  
+
+}
+
+.product1{
+  width: 20%;
+  height: auto;
+  translate: 30% 100%;
+  cursor: pointer;
+  transition: 0.3s ease-out;
+}
+
+
+
+
+
+
+.product1:hover{
+  
+  
+  transform: translateY(-5%);
+  width: 20%;
+}
+
+.img1{
+  width: 130%;
+  height: 200;
+  z-index: 100; 
+  margin-bottom: -20px;
+  
+  
+}
+
+.p1{
+  font-family: 'Zen Dots';
+  font-size: 20px; 
+  color: white;
+  translate: 15% -100%;
+  text-align: center;
+
+
+}
+
+.p2{
+  font-family: 'Zen Dots';
+  font-size: 15px; 
+  color: white;
+  translate: 15% -90%;
+  text-align: center;
+
+
+
+}
